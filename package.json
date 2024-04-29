@@ -1,0 +1,20 @@
+{
+  "name": "react-native-raptor-module",
+  "version": "0.0.0",
+  "description": "testing lib",
+  "main": "src/RaptorXMob",
+  "author": " <> ()",
+  "license": "UNLICENSED",
+  "homepage": "#readme",
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-native-community/netinfo": "^11.3.1",
+    "axios": "^1.6.8",
+    "crypto-js": "^4.2.0",
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-device-info": "^10.13.1",
+    "react-native-fs": "^2.20.0",
+    "react-native-localize": "^3.1.0"
+  }
+}
